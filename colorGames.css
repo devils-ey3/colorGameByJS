@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(49, 41, 41);
+}
+
+.square{
+    background-color: red;
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.33%;
+}
+
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+h1{
+    color:white;
+}
+
+#strip{
+    
+    background: white;
+    height: 21px;
+    text-align: center;
+    color: black;
+}
+
+.selected{
+    background: darkgoldenrod;
+}
